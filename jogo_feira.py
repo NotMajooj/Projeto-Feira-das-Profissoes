@@ -16,9 +16,9 @@ MODEL_NAME = 'yolov8s.pt'  # O equilíbrio perfeito! 's' (Small)
 # 1. Dicionário de objetos para o jogo (SÓ COISAS FÁCEIS E QUE O MODELO CONHECE)
 translations = {
     'teddy bear': 'Ursinho',
-    'book': 'Livro',
     'cell phone': 'Celular',
-    'backpack': 'Mochila',
+    'mouse': 'Mouse', # TROCADO: Banana era ruim de levar
+    'keyboard': 'Teclado', # ADICIONADO
     'bottle': 'Garrafa',
     'cup': 'Copo',
     'remote': 'Controle Remoto',
